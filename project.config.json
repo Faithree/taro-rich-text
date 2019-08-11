@@ -1,0 +1,17 @@
+{
+	"miniprogramRoot": "dist/",
+	"projectname": "taro-rich-text",
+	"description": "一款轻量级的Taro第三方 rich-text组件",
+	"appid": "touristappid",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {}
+}
